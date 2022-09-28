@@ -35,3 +35,7 @@ height: 438px;
 width: 94%;
 margin: 0 auto;
 }
+aside,main {
+width: 50%;
+float: right;
+}
