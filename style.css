@@ -7,13 +7,13 @@ height: 100px;
 background-color: aqua;
 }
 aside,main {
-width: 75%;
+width: 80%;
 float: left;
 }
 aside img{
 display: block;
 height: 438px ;
-width: 64%;
+width: 74%;
 margin: 0 auto;
 }
 footer {
